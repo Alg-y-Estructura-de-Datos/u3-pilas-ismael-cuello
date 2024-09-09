@@ -1,3 +1,7 @@
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/U00-E06.dir
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ismae/facultad/progra3/Pilas-progra3/cmake-build-debug/CMakeFiles/Ej1.dir
+C:/Users/ismae/facultad/progra3/Pilas-progra3/cmake-build-debug/CMakeFiles/Ej2.dir
+C:/Users/ismae/facultad/progra3/Pilas-progra3/cmake-build-debug/CMakeFiles/Ej3.dir
+C:/Users/ismae/facultad/progra3/Pilas-progra3/cmake-build-debug/CMakeFiles/Ej4.dir
+C:/Users/ismae/facultad/progra3/Pilas-progra3/cmake-build-debug/CMakeFiles/Ej5.dir
+C:/Users/ismae/facultad/progra3/Pilas-progra3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ismae/facultad/progra3/Pilas-progra3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
